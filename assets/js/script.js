@@ -9,7 +9,31 @@
     animationDuration: 400
   });
   
-  
+
+  /*================================================================= 
+      Modal
+  ==================================================================*/
+
+  const projects = document.querySelectorAll('.project');
+  const modal = document.querySelector('.modal');
+  const modalDescription = document.querySelector('.modal-description');
+  const closeBtn = document.querySelector('.close');
+
+  projects.forEach((project, index) => {
+    project.addEventListener('click', () => {
+      const description = project.querySelector('.description');
+      modalDescription.innerHTML = description.innerHTML;
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden'; // Evita el scroll de la página principal
+    });
+  });
+
+  closeBtn.addEventListener('click', () => {
+    modal.style.display = 'none';
+    document.body.style.overflow = 'auto'; // Restaura el scroll de la página principal
+  });
+
+
   
   /*================================================================= 
       Isotope initialization 
