@@ -1,0 +1,86 @@
+<!-- Virtual reality page-->
+                <div class="col-lg-4 col-md-6 grid-item project wix">
+                    <div class="box box_border">
+                        <img src="./assets/img/abstergo.png" alt="abstergo-landing-page">
+                        <div class="box-content">
+                            <span class="category">Wix</span>
+                            <h3 class="title">VR Company Landing Page</h3>
+                            <div class="description" style="display: none;">
+                                <div class="modal-content__modal-img">
+                                    <img src="./assets/img/Pokedex.gif">
+                                </div>
+                                <div class="modal-content__modal-title">
+                                    <h1>VR Company Landing Page</h1>
+                                </div>
+                                <h2>Problem</h2>
+                                <p>En un mundo donde la pasión por los Pokémon une a millones de personas, surge un desafío apremiante: la falta de una plataforma integral para explorar y conocer a estas criaturas icónicas. Los amantes de los Pokémon anhelan un lugar en línea donde puedan acceder fácilmente a información detallada sobre cada uno, desde sus estadísticas y habilidades hasta su apariencia y evolución. Además, la necesidad de simular emocionantes batallas entre los Pokémon añade otro nivel de complejidad. Ante esta demanda insatisfecha, surge la pregunta: ¿cómo podemos brindar a los aficionados de Pokémon una experiencia web que les permita explorar, buscar y disfrutar de la emoción de las batallas, todo en un solo lugar?</p>
+                                <h2>Solution</h2>
+                                <p>Para abordar este desafío y brindar a los fanáticos de Pokémon la experiencia que anhelan, hemos concebido una solución innovadora: una página web interactiva y atractiva. En esta plataforma, los usuarios podrán explorar una enciclopedia completa de Pokémon, con acceso a información exhaustiva sobre cada criatura, incluidas sus estadísticas, tipos, habilidades y evoluciones. Además, hemos implementado una función de búsqueda que permitirá a los usuarios encontrar Pokémon específicos tanto por nombre como por número de la Pokédex. Pero eso no es todo: para agregar un toque de emoción, también hemos integrado una sección de simulación de batallas. Aquí, los usuarios podrán presenciar enfrentamientos emocionantes entre dos Pokémon seleccionados al azar, ¡sumergiéndose en la experiencia de estrategia y combate que hace que Pokémon sea tan querido en todo el mundo! En resumen, nuestra solución proporciona una experiencia web integral y divertida que satisfará las necesidades de los entusiastas de Pokémon, brindando información detallada y entretenimiento emocionante en un solo destino en línea.</p>
+                                <h2>Tecnologies</h2>
+                                <p> La página web se construyó utilizando una base de HTML, CSS y JavaScript, aprovechando la potencia de estas herramientas para crear una interfaz de usuario atractiva y altamente interactiva. Para acceder a la amplia base de datos de Pokémon, nos conectamos a la PokeAPI, una API pública que proporciona información detallada sobre todas las criaturas Pokémon. Esto nos permitió obtener datos precisos y actualizados para alimentar nuestra enciclopedia y la función de búsqueda. Al combinar estas tecnologías, logramos crear una experiencia fluida y envolvente para los usuarios, brindándoles la información que desean y la emoción que buscan en una única plataforma web integral.</p>
+                                <div class="modal-content__modal-description__button">
+                                    <button class="btn-main" >View site</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="icon-box"><a href="https://joaquinulloaleiva.wixsite.com/animus" target="_blank"><i class="bi bi-eye"></i></a></div>
+                    </div>
+                </div>
+
+                <!-- Banco Solar -->
+                <div class="col-lg-4 col-md-6 grid-item project nodejs">
+                    <div class="box box_border">
+                        <img src="./assets/img/banco solar.png" alt="bancosolar-landing-page">
+                        <div class="box-content">
+                            <span class="category">NodeJs/Bootstrap/MySQl</span>
+                            <h3 class="title">Banco Solar App</h3>
+                            <div class="description" style="display: none;">
+                                <div class="modal-content__modal-img">
+                                    <img src="./assets/img/Pokedex.gif">
+                                </div>
+                                <div class="modal-content__modal-title">
+                                    <h1>Banco Solar App</h1>
+                                </div>
+                                <h2>Problem</h2>
+                                <p>En un mundo donde la pasión por los Pokémon une a millones de personas, surge un desafío apremiante: la falta de una plataforma integral para explorar y conocer a estas criaturas icónicas. Los amantes de los Pokémon anhelan un lugar en línea donde puedan acceder fácilmente a información detallada sobre cada uno, desde sus estadísticas y habilidades hasta su apariencia y evolución. Además, la necesidad de simular emocionantes batallas entre los Pokémon añade otro nivel de complejidad. Ante esta demanda insatisfecha, surge la pregunta: ¿cómo podemos brindar a los aficionados de Pokémon una experiencia web que les permita explorar, buscar y disfrutar de la emoción de las batallas, todo en un solo lugar?</p>
+                                <h2>Solution</h2>
+                                <p>Para abordar este desafío y brindar a los fanáticos de Pokémon la experiencia que anhelan, hemos concebido una solución innovadora: una página web interactiva y atractiva. En esta plataforma, los usuarios podrán explorar una enciclopedia completa de Pokémon, con acceso a información exhaustiva sobre cada criatura, incluidas sus estadísticas, tipos, habilidades y evoluciones. Además, hemos implementado una función de búsqueda que permitirá a los usuarios encontrar Pokémon específicos tanto por nombre como por número de la Pokédex. Pero eso no es todo: para agregar un toque de emoción, también hemos integrado una sección de simulación de batallas. Aquí, los usuarios podrán presenciar enfrentamientos emocionantes entre dos Pokémon seleccionados al azar, ¡sumergiéndose en la experiencia de estrategia y combate que hace que Pokémon sea tan querido en todo el mundo! En resumen, nuestra solución proporciona una experiencia web integral y divertida que satisfará las necesidades de los entusiastas de Pokémon, brindando información detallada y entretenimiento emocionante en un solo destino en línea.</p>
+                                <h2>Tecnologies</h2>
+                                <p> La página web se construyó utilizando una base de HTML, CSS y JavaScript, aprovechando la potencia de estas herramientas para crear una interfaz de usuario atractiva y altamente interactiva. Para acceder a la amplia base de datos de Pokémon, nos conectamos a la PokeAPI, una API pública que proporciona información detallada sobre todas las criaturas Pokémon. Esto nos permitió obtener datos precisos y actualizados para alimentar nuestra enciclopedia y la función de búsqueda. Al combinar estas tecnologías, logramos crear una experiencia fluida y envolvente para los usuarios, brindándoles la información que desean y la emoción que buscan en una única plataforma web integral.</p>
+                                <div class="modal-content__modal-description__button">
+                                    <button class="btn-main" >View site</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="icon-box"><a href="https://github.com/joaqulloa/banco_solar" target="_blank"><i class="bi bi-plus-lg"></i></a></div>
+                    </div>
+                </div>
+
+                <!-- Roommates Expenses -->
+                <div class="col-lg-4 col-md-6 grid-item project nodejs">
+                    <div class="box box_border">
+                        <img src="./assets/img/roommates.png" alt="roommates-landing-page">
+                        <div class="box-content">
+                            <span class="category">Bootstrap/NodeJs/MySQL</span>
+                            <h3 class="title">Roommates Expenses App</h3>
+                            <div class="description" style="display: none;">
+                                <div class="modal-content__modal-img">
+                                    <img src="./assets/img/Pokedex.gif">
+                                </div>
+                                <div class="modal-content__modal-title">
+                                    <h1>Roomates Expenses App</h1>
+                                </div>
+                                <h2>Problem</h2>
+                                <p>En un mundo donde la pasión por los Pokémon une a millones de personas, surge un desafío apremiante: la falta de una plataforma integral para explorar y conocer a estas criaturas icónicas. Los amantes de los Pokémon anhelan un lugar en línea donde puedan acceder fácilmente a información detallada sobre cada uno, desde sus estadísticas y habilidades hasta su apariencia y evolución. Además, la necesidad de simular emocionantes batallas entre los Pokémon añade otro nivel de complejidad. Ante esta demanda insatisfecha, surge la pregunta: ¿cómo podemos brindar a los aficionados de Pokémon una experiencia web que les permita explorar, buscar y disfrutar de la emoción de las batallas, todo en un solo lugar?</p>
+                                <h2>Solution</h2>
+                                <p>Para abordar este desafío y brindar a los fanáticos de Pokémon la experiencia que anhelan, hemos concebido una solución innovadora: una página web interactiva y atractiva. En esta plataforma, los usuarios podrán explorar una enciclopedia completa de Pokémon, con acceso a información exhaustiva sobre cada criatura, incluidas sus estadísticas, tipos, habilidades y evoluciones. Además, hemos implementado una función de búsqueda que permitirá a los usuarios encontrar Pokémon específicos tanto por nombre como por número de la Pokédex. Pero eso no es todo: para agregar un toque de emoción, también hemos integrado una sección de simulación de batallas. Aquí, los usuarios podrán presenciar enfrentamientos emocionantes entre dos Pokémon seleccionados al azar, ¡sumergiéndose en la experiencia de estrategia y combate que hace que Pokémon sea tan querido en todo el mundo! En resumen, nuestra solución proporciona una experiencia web integral y divertida que satisfará las necesidades de los entusiastas de Pokémon, brindando información detallada y entretenimiento emocionante en un solo destino en línea.</p>
+                                <h2>Tecnologies</h2>
+                                <p> La página web se construyó utilizando una base de HTML, CSS y JavaScript, aprovechando la potencia de estas herramientas para crear una interfaz de usuario atractiva y altamente interactiva. Para acceder a la amplia base de datos de Pokémon, nos conectamos a la PokeAPI, una API pública que proporciona información detallada sobre todas las criaturas Pokémon. Esto nos permitió obtener datos precisos y actualizados para alimentar nuestra enciclopedia y la función de búsqueda. Al combinar estas tecnologías, logramos crear una experiencia fluida y envolvente para los usuarios, brindándoles la información que desean y la emoción que buscan en una única plataforma web integral.</p>
+                                <div class="modal-content__modal-description__button">
+                                    <button class="btn-main" >View site</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="icon-box"><a href="https://github.com/joaqulloa/roommates_gastos" target="_blank"><i class="bi bi-plus-lg"></i></a></div>
+                    </div>
+                </div>
